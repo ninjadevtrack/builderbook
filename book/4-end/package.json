@@ -22,7 +22,7 @@
     "express-session": "1.16.1",
     "googleapis": "39.2.0",
     "handlebars": "4.1.2",
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "mongoose": "5.5.2",
     "next": "8.1.0",
     "nprogress": "0.2.0",
